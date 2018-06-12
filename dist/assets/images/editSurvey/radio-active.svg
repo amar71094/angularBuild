@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 64 + Oval 65</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-10.000000, -38.000000)">
+            <g id="Oval-64-+-Oval-65" sketch:type="MSLayerGroup" transform="translate(11.000000, 39.000000)">
+                <circle id="Oval-64" stroke="#556068" stroke-width="2" sketch:type="MSShapeGroup" cx="12" cy="12" r="12"></circle>
+                <circle id="Oval-65" fill="#2E93ED" sketch:type="MSShapeGroup" cx="12" cy="12" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

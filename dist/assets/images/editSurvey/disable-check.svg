@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 525 + Shape 2</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-83.000000, -79.000000)">
+            <g id="Rectangle-525-+-Shape-2" sketch:type="MSLayerGroup" transform="translate(83.000000, 79.000000)">
+                <rect id="Rectangle-525" fill="#CACACA" sketch:type="MSShapeGroup" x="0" y="0" width="16" height="16" rx="2"></rect>
+                <path d="M6.18181818,10.3283582 L3.79545455,7.82089552 L3,8.65671642 L6.18181818,12 L13,4.8358209 L12.2045455,4 L6.18181818,10.3283582 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

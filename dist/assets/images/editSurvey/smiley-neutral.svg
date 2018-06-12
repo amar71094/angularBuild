@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>smiley-neutral</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Graphical-Rating-Likert-Scale-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-974.000000, -436.000000)">
+        <g id="smiley-neutral" transform="translate(994.000000, 456.000000) scale(1, -1) translate(-994.000000, -456.000000) translate(975.000000, 437.000000)">
+            <g id="Group">
+                <path d="M37.9629268,18.9814634 C37.9629268,8.49846829 29.4644585,0 18.9814634,0 C8.49846829,0 0,8.49846829 0,18.9814634 C0,29.4644585 8.49846829,37.9629268 18.9814634,37.9629268 C29.4644585,37.9629268 37.9629268,29.4644585 37.9629268,18.9814634" id="Shape" stroke="#85B7EB" stroke-width="2" fill="#DCEDFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle-2" fill="#664500" x="10.6875" y="10.09375" width="16.03125" height="3.5625" rx="1.78125"></rect>
+                <path d="M15.2906439,23.7639024 C15.2906439,21.7244146 14.1106049,20.0730829 12.6543707,20.0730829 C11.1981366,20.0730829 10.0180976,21.7245073 10.0180976,23.7639024 C10.0180976,25.802278 11.1981366,27.454722 12.6543707,27.454722 C14.1106049,27.454722 15.2906439,25.802278 15.2906439,23.7639024" id="SVGCleanerId_0" fill="#664500" fill-rule="nonzero"></path>
+                <g transform="translate(23.726829, 20.019512)" fill="#664500" fill-rule="nonzero" id="SVGCleanerId_0_1_">
+                    <path d="M5.3302878,3.74439024 C5.3302878,1.70490244 4.15024878,0.0535707317 2.69401463,0.0535707317 C1.23778049,0.0535707317 0.0577414634,1.70499512 0.0577414634,3.74439024 C0.0577414634,5.78276585 1.23778049,7.43520976 2.69401463,7.43520976 C4.15024878,7.43520976 5.3302878,5.78276585 5.3302878,3.74439024"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

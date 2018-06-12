@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="42px" viewBox="0 0 49 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="37" height="30" rx="4"></rect>
+        <filter x="-31.1%" y="-21.7%" width="162.2%" height="176.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0721524004 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Graphical-Rating-Likert-Scale-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1264.000000, -602.000000)">
+        <g id="Group-4" transform="translate(1270.000000, 603.000000)">
+            <g>
+                <g id="Rectangle-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <circle id="Oval-2" fill="#000000" cx="11" cy="15" r="2"></circle>
+                <circle id="Oval-2" fill="#000000" cx="18.5" cy="15" r="2"></circle>
+                <circle id="Oval-2" fill="#000000" cx="26" cy="15" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

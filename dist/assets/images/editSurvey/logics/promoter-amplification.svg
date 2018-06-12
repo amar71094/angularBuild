@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="27" height="27" rx="13.5"></rect>
+        <filter x="-25.9%" y="-18.5%" width="151.9%" height="151.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.68627451   0 0 0 0 0.152941176   0 0 0 0 0.0431372549  0 0 0 0.633322011 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="equation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1077.000000, -817.000000)">
+        <g id="Rectangle-8" transform="translate(1081.000000, 819.000000)">
+            <g>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#CE1717" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="PA" font-family="LucidaGrande, Lucida Grande" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="6.04394531" y="18">PA</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

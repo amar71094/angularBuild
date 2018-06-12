@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="21px" viewBox="0 0 33 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 28</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-10" transform="translate(-353.000000, -365.000000)">
+            <g id="Group-28" transform="translate(353.000000, 365.000000)">
+                <rect id="Rectangle-5" stroke="#556068" stroke-width="1.5" x="0.75" y="0.75" width="14.5" height="7.64285714" rx="2"></rect>
+                <polygon id="Triangle-3" fill="#2392ED" transform="translate(10.500000, 4.750000) rotate(180.000000) translate(-10.500000, -4.750000) " points="10.5 3 13 6.5 8 6.5"></polygon>
+                <rect id="Rectangle-5" stroke="#556068" stroke-width="1.5" x="17.75" y="0.75" width="14.5" height="7.64285714" rx="2"></rect>
+                <polygon id="Triangle-3" fill="#2392ED" transform="translate(27.500000, 4.750000) rotate(180.000000) translate(-27.500000, -4.750000) " points="27.5 3 30 6.5 25 6.5"></polygon>
+                <rect id="Rectangle-5" stroke="#556068" stroke-width="1.5" x="0.75" y="11.75" width="14.5" height="7.64285714" rx="2"></rect>
+                <polygon id="Triangle-3" fill="#2392ED" transform="translate(10.500000, 15.750000) rotate(180.000000) translate(-10.500000, -15.750000) " points="10.5 14 13 17.5 8 17.5"></polygon>
+                <rect id="Rectangle-5" stroke="#556068" stroke-width="1.5" x="17.75" y="11.75" width="14.5" height="7.64285714" rx="2"></rect>
+                <polygon id="Triangle-3" fill="#2392ED" transform="translate(27.500000, 15.750000) rotate(180.000000) translate(-27.500000, -15.750000) " points="27.5 14 30 17.5 25 17.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

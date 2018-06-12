@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="32px" viewBox="0 0 29 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Graphical-Rating-Likert-Scale-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1188.000000, -526.000000)">
+        <g id="Group-11" transform="translate(1188.000000, 526.000000)" fill="#383838" fill-rule="nonzero">
+            <path d="M21.426,15.267 C20.092,18.317 17.182,20.867 14.36,20.867 C10.915,20.867 8.413,18.346 7.079,15.298 C-0.68,19.317 0.298,29.488 0.298,29.488 C0.298,30.88 1.395,31.082 2.684,31.082 L26.017,31.082 C27.308,31.082 28.408,30.879 28.408,29.487 C28.409,29.487 29.183,19.287 21.426,15.267 Z" id="Shape"></path>
+            <path d="M14.36,19.213 C18.244,19.213 21.333,13.652 21.333,9.057 C21.333,4.461 18.183,0.736 14.298,0.736 C10.413,0.736 7.263,4.461 7.263,9.057 C7.263,13.653 10.473,19.213 14.359,19.213 L14.36,19.213 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

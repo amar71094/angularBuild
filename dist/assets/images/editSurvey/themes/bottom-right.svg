@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Survey-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-333.000000, -934.000000)">
+        <g id="Group-27" transform="translate(333.000000, 934.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="right-align" transform="translate(0.000000, 6.000000)">
+                <rect id="Rectangle-path" x="0" y="0.50440625" width="14" height="1"></rect>
+                <rect id="Rectangle-path" x="0" y="5.98267188" width="14" height="1"></rect>
+                <rect id="Rectangle-path" x="3.04346875" y="3.24353906" width="10.9565312" height="1"></rect>
+            </g>
+            <g id="down-arrow-(1)" transform="translate(6.000000, 0.000000)">
+                <path d="M4.98935268,3.1688058 C4.97078125,3.12428571 4.9274442,3.09523437 4.87935268,3.09523437 L3.57483259,3.09523437 L3.57483259,0.119051339 C3.57483259,0.0533370536 3.52149554,0 3.45578125,0 L1.55101563,0 C1.48530134,0 1.43196429,0.0533370536 1.43196429,0.119051339 L1.43196429,3.09524554 L0.122444196,3.09524554 C0.0743526786,3.09524554 0.031015625,3.12429687 0.0124441964,3.16858259 C-0.00589285714,3.21310268 0.00410714286,3.26429688 0.0381584821,3.29834821 L2.41315848,5.68120536 C2.43553571,5.70358259 2.46578125,5.71620536 2.4974442,5.71620536 C2.52910714,5.71620536 2.55935268,5.70358259 2.58172991,5.68143973 L4.96363839,3.29858259 C4.99768973,3.26452009 5.00792411,3.21333705 4.98935268,3.1688058 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

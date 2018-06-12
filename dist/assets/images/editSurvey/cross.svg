@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="34px" viewBox="0 0 40 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="22.4" rx="4"></rect>
+        <filter x="-41.1%" y="-29.0%" width="182.1%" height="202.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0721524004 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="delayed-branching" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-296.000000, -159.000000)">
+        <g id="Group-4" transform="translate(302.000000, 160.000000)">
+            <g id="Rectangle-2">
+                <g>
+                    <g>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+            <g id="cancel-music" transform="translate(10.000000, 7.000000)" fill="#DC0F0F">
+                <path d="M4.95038498,3.99966197 L7.80244131,1.14760563 C8.06497653,0.885070423 8.06497653,0.45941784 7.80244131,0.196920188 C7.5399061,-0.0656150235 7.11429108,-0.0656150235 6.85175587,0.196920188 L3.99966197,3.04901408 L1.14756808,0.196882629 C0.885032864,-0.0656525822 0.45941784,-0.0656525822 0.196882629,0.196882629 C-0.0656150235,0.45941784 -0.0656150235,0.885070423 0.196882629,1.14756808 L3.04897653,3.99962441 L0.196882629,6.85171831 C-0.0656150235,7.11425352 -0.0656150235,7.5399061 0.196882629,7.80240376 C0.45941784,8.06493897 0.885032864,8.06493897 1.14756808,7.80240376 L3.99966197,4.95030986 L6.85175587,7.80240376 C7.11425352,8.06493897 7.5399061,8.06493897 7.80244131,7.80240376 C8.06497653,7.53986854 8.06497653,7.11425352 7.80244131,6.85171831 L4.95038498,3.99966197 Z" id="Shape" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

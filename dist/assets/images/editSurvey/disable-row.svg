@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Single-choice-with-new-additional-text" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-283.000000, -295.000000)">
+        <path d="M283,302 C283,305.859827 286.140173,309 290,309 C293.859827,309 297,305.859827 297,302 C297,298.140173 293.859911,295 290,295 C286.140089,295 283,298.140173 283,302 Z M290,307.748221 C286.83045,307.748221 284.251863,305.169633 284.251863,302 C284.251863,300.64031 284.727404,299.390116 285.519666,298.404817 L293.595183,306.480334 C292.609884,307.272596 291.359773,307.748221 290,307.748221 Z M295.748137,302 C295.748137,303.35969 295.272596,304.609884 294.480417,305.595183 L286.404817,297.519666 C287.390116,296.727404 288.64031,296.251863 290,296.251863 C293.16955,296.251863 295.748137,298.83045 295.748137,302 Z" id="Shape" fill="#777676" fill-rule="nonzero"></path>
+    </g>
+</svg>

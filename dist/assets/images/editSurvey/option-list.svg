@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="16px" viewBox="0 0 8 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Graphical-Rating-Likert-Scale-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1220.000000, -609.000000)">
+        <g id="Group-5" transform="translate(1220.000000, 609.000000)" fill="#969696">
+            <g id="Oval">
+                <circle cx="1.2" cy="1.2" r="1.2"></circle>
+                <circle cx="1.2" cy="5.73333333" r="1.2"></circle>
+                <circle cx="1.2" cy="10.2666667" r="1.2"></circle>
+                <circle cx="1.2" cy="14.8" r="1.2"></circle>
+                <circle cx="6" cy="1.2" r="1.2"></circle>
+                <circle cx="6" cy="5.73333333" r="1.2"></circle>
+                <circle cx="6" cy="10.2666667" r="1.2"></circle>
+                <circle cx="6" cy="14.8" r="1.2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

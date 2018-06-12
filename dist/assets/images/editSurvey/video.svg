@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>video-camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Graphical-Rating-Likert-Scale-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-693.000000, -529.000000)">
+        <g id="video-camera" transform="translate(693.000000, 529.875000)" fill="#959292" fill-rule="nonzero">
+            <path d="M10.9059146,12.0222866 C10.9059146,12.3066768 10.5804268,12.5372561 10.178872,12.5372561 L0.727042683,12.5372561 C0.325487805,12.5372561 0,12.3066768 0,12.0222866 L0,5.32728659 C0,5.04283537 0.325487805,4.81228659 0.727042683,4.81228659 L10.178872,4.81228659 C10.5804268,4.81228659 10.9059146,5.04289634 10.9059146,5.32728659 L10.9059146,12.0222866 Z" id="Shape"></path>
+            <circle id="Oval" cx="2.72646341" cy="2.73493902" r="1.81765244"></circle>
+            <circle id="Oval" cx="7.72503049" cy="2.28051829" r="2.27207317"></circle>
+            <path d="M14.9956707,12.7645427 C14.9956707,12.7645427 14.935122,13.2189329 14.5109451,13.2189329 C14.0867988,13.2189329 11.3603354,10.6756402 11.3603354,10.3409756 L11.3603354,7.00859756 C11.3603354,6.67396341 14.0262805,4.13060976 14.5109451,4.13060976 C14.9956707,4.13060976 14.9956707,4.58503049 14.9956707,4.58503049 L14.9956707,12.7645427 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>left-align</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Survey-Title" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-222.000000, -591.000000)">
+        <g id="left-align" transform="translate(222.000000, 591.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <rect id="Rectangle-path" x="0" y="0" width="14" height="1.07692308"></rect>
+            <rect id="Rectangle-path" x="0" y="2.69230769" width="10.7692308" height="1.07692308"></rect>
+            <rect id="Rectangle-path" x="0" y="5.38461538" width="14" height="1.07692308"></rect>
+            <rect id="Rectangle-path" x="0" y="10.7692308" width="14" height="1.07692308"></rect>
+            <rect id="Rectangle-path" x="0" y="8.07692308" width="10.7692308" height="1.07692308"></rect>
+        </g>
+    </g>
+</svg>

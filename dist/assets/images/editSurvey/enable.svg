@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 523 + disabled 2</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Mobile-Portrait" sketch:type="MSArtboardGroup" transform="translate(-37.000000, -8.000000)">
+            <g id="Rectangle-523-+-disabled-2" sketch:type="MSLayerGroup" transform="translate(37.000000, 8.000000)">
+                <rect id="Rectangle-523" fill="#2E93ED" sketch:type="MSShapeGroup" x="0" y="0" width="18" height="18" rx="2"></rect>
+                <g id="disabled-2" transform="translate(3.000000, 3.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M0,6 C0,9.30841438 2.69160082,12 6.00003389,12 C9.30839918,12 12,9.30841438 12,6 C12,2.69158562 9.30839918,0 6.00003389,0 C2.69160082,0 0,2.69158562 0,6 L0,6 Z M6.01260148,1.84615385 C8.29607647,1.84615385 10.1538462,3.70394207 10.1538462,5.98743985 C10.1538462,6.84659678 9.89069812,7.64539864 9.44100578,8.30769231 L3.69230769,2.55900133 C4.35465923,2.10930451 5.15345313,1.84615385 6.01260148,1.84615385 L6.01260148,1.84615385 Z M8.30769231,9.44099867 C7.64532755,9.89069549 6.84658219,10.1538462 5.98741669,10.1538462 C3.70389613,10.1538462 1.84615385,8.29605793 1.84615385,6.01256015 C1.84615385,5.15340322 2.10930713,4.35466584 2.55894396,3.69230769 L8.30769231,9.44099867 L8.30769231,9.44099867 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

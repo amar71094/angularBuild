@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="language" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1362.000000, -309.000000)">
+        <g id="Group-2" transform="translate(1362.000000, 309.000000)">
+            <circle id="Oval" fill="#1572BA" cx="15" cy="15" r="15"></circle>
+            <g id="expand-button" transform="translate(15.000000, 15.000000) scale(1, -1) translate(-15.000000, -15.000000) translate(10.000000, 12.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Shape" points="8.83333333 0 5 3.72972973 1.16666667 0 0 1.13513514 5 6 10 1.13513514"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

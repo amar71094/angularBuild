@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet-9″" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-103.000000, -661.000000)">
+        <g id="2" transform="translate(104.000000, 661.000000)">
+            <g id="Icons">
+                <g id="XMLID_672_">
+                    <circle id="XMLID_705_" fill="#FFE500" fill-rule="nonzero" cx="24.3902439" cy="25" r="24.3902439"></circle>
+                    <path d="M24.3902439,0.609756098 C10.9756098,0.609756098 0,11.5853659 0,25 C0,38.4146341 10.9756098,49.3902439 24.3902439,49.3902439 C37.804878,49.3902439 48.7804878,38.4146341 48.7804878,25 C48.7804878,11.5853659 37.804878,0.609756098 24.3902439,0.609756098 Z M24.3902439,45.7317073 C12.0731707,45.7317073 2.19512195,35.7317073 2.19512195,23.4146341 C2.19512195,11.2195122 12.0731707,1.2195122 24.3902439,1.2195122 C36.7073171,1.2195122 46.5853659,11.2195122 46.5853659,23.4146341 C46.5853659,35.8536585 36.7073171,45.7317073 24.3902439,45.7317073 Z" id="XMLID_698_" fill="#EBCB00" fill-rule="nonzero"></path>
+                    <ellipse id="XMLID_697_" fill="#FFF48C" fill-rule="nonzero" cx="24.3902439" cy="5.48780488" rx="7.31707317" ry="1.82926829"></ellipse>
+                    <circle id="XMLID_695_" stroke="#45413C" stroke-linecap="round" stroke-linejoin="round" cx="24.3902439" cy="25" r="24.3902439"></circle>
+                    <ellipse id="XMLID_692_" fill="#FFAA54" fill-rule="nonzero" cx="39.0243902" cy="31.097561" rx="3.04878049" ry="1.82926829"></ellipse>
+                    <ellipse id="XMLID_691_" fill="#FFAA54" fill-rule="nonzero" cx="9.75609756" cy="31.097561" rx="3.04878049" ry="1.82926829"></ellipse>
+                    <path d="M39.3902439,20.7317073 L35.4878049,22.6829268 C34.6341463,23.1707317 34.6341463,24.3902439 35.4878049,24.8780488 L39.3902439,26.8292683" id="XMLID_687_" stroke="#45413C" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M9.3902439,20.7317073 L13.2926829,22.6829268 C14.1463415,23.1707317 14.1463415,24.3902439 13.2926829,24.8780488 L9.3902439,26.8292683" id="XMLID_685_" stroke="#45413C" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M10.9756098,18.2926829 C12.3170732,18.0487805 13.6585366,17.6829268 15.1219512,16.9512195 C16.4634146,16.2195122 17.6829268,15.3658537 18.6585366,14.3902439" id="XMLID_684_" stroke="#45413C" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M37.5609756,18.2926829 C36.2195122,18.0487805 34.8780488,17.6829268 33.4146341,16.9512195 C32.0731707,16.2195122 30.8536585,15.3658537 29.8780488,14.3902439" id="XMLID_683_" stroke="#45413C" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M18.2926829,37.195122 C20,35.9756098 22.0731707,35.3658537 24.3902439,35.3658537 C26.5853659,35.3658537 28.7804878,36.097561 30.4878049,37.195122" id="XMLID_682_" stroke="#45413C" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

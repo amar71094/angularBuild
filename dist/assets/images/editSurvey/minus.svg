@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Graphical-Rating-Likert-Scale-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-858.000000, -532.000000)">
+        <g id="minus" transform="translate(858.000000, 532.000000)" fill-rule="nonzero">
+            <path d="M14.7138506,9.33333333 L5.95281607,9.33333333 C5.61055186,9.33333333 5.33333333,9.632 5.33333333,10 C5.33333333,10.368 5.61055186,10.6666667 5.95281607,10.6666667 L14.7138506,10.6666667 C15.0561148,10.6666667 15.3333333,10.368 15.3333333,10 C15.3333333,9.632 15.0561148,9.33333333 14.7138506,9.33333333 Z" id="Shape" fill="#D41515"></path>
+            <path d="M10,0 C4.4859375,0 0,4.4859375 0,10 C0,15.5140625 4.4859375,20 10,20 C15.5140625,20 20,15.5140625 20,10 C20,4.4859375 15.5140625,0 10,0 Z M10,18.75 C5.1753125,18.75 1.25,14.8246875 1.25,10 C1.25,5.1753125 5.1753125,1.25 10,1.25 C14.8246875,1.25 18.75,5.1753125 18.75,10 C18.75,14.8246875 14.8246875,18.75 10,18.75 Z" id="Shape" fill="#747474"></path>
+        </g>
+    </g>
+</svg>

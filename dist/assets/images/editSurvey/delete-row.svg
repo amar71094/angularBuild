@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Single-choice-with-new-additional-text-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-345.000000, -296.000000)">
+        <g id="Group-3-Copy" transform="translate(345.000000, 296.000000)">
+            <circle id="Oval" fill="#D41515" fill-rule="nonzero" cx="12.5" cy="12.5" r="12.5"></circle>
+            <g id="Group-4" transform="translate(8.035714, 8.928571)" stroke="#FFFFFF" stroke-linecap="round">
+                <polyline id="Shape" points="0.857142857 7.16049199 4.42857143 3.58906342 8 0.017634844"></polyline>
+                <polyline id="Shape" points="0.857142857 0.017634844 4.42857143 3.58906342 8 7.16049199"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

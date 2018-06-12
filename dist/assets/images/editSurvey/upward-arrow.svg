@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="23px" viewBox="0 0 18 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>upward-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="randomizations-set-actions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-359.000000, -380.000000)">
+        <g id="upward-arrow" transform="translate(359.000000, 380.000000)" fill="#1572BA" fill-rule="nonzero">
+            <path d="M11.0690995,0 L4.51616941,8.62127865 L7.95698821,8.62127865 C8.52563635,14.5456729 6.25888584,20.2344752 0.0244487728,22.2597655 C8.04423935,22.2821146 12.5876253,15.6765798 14.1248007,8.62127865 L17.6222273,8.62127865 L11.0690995,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

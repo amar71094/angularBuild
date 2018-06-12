@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="28px" viewBox="0 0 33 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy-10" transform="translate(-356.000000, -264.000000)">
+            <g id="Group-22" transform="translate(357.000000, 265.000000)">
+                <text id="1" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#2392ED">
+                    <tspan x="12.6313477" y="11">1</tspan>
+                </text>
+                <text id="2" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#2392ED">
+                    <tspan x="3.63134766" y="22">2</tspan>
+                </text>
+                <text id="3" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" fill="#2392ED">
+                    <tspan x="22.6313477" y="23">3</tspan>
+                </text>
+                <polyline id="Line-8" stroke="#505B63" stroke-width="2" stroke-linecap="square" points="0.5 11.5 0.5 26 30.5 26 30.5 14 19.9117647 14 19.9117647 0 10.5 0 10.5 10 10.5 11 0.5 11"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

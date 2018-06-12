@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>tick (2)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,0 C3.1402231,0 0,3.14013367 0,6.99996348 C0,10.8597933 3.1402231,14 7,14 C10.8597769,14 14,10.8597933 14,6.99996348 C14,3.14013367 10.8598499,0 7,0 Z M11.0195235,5.81761075 L6.62177955,10.2153318 C6.4347876,10.4023228 6.18621978,10.5052409 5.92180147,10.5052409 C5.65738316,10.5052409 5.40881534,10.4023228 5.22182338,10.2153318 L2.98047645,7.97399657 C2.7934845,7.78700559 2.69049284,7.53843906 2.69049284,7.27402213 C2.69049284,7.00953216 2.7934845,6.76096563 2.98047645,6.57397465 C3.16739536,6.38698367 3.41596319,6.28399255 3.68045454,6.28399255 C3.94487285,6.28399255 4.19351372,6.38698367 4.38043263,6.5740477 L5.92172842,8.11526241 L9.61942128,4.41758884 C9.80641324,4.23059786 10.0549811,4.12767978 10.3193994,4.12767978 C10.5838177,4.12767978 10.8323855,4.23059786 11.0193775,4.41758884 C11.4054866,4.80369599 11.4054866,5.43164968 11.0195235,5.81761075 Z" id="path-1"></path>
+        <filter x="-14.3%" y="-7.1%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.144842618 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Survey-page-page-tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-651.000000, -614.000000)">
+        <g id="Group" transform="translate(162.000000, 111.000000)" fill-rule="nonzero">
+            <g id="tick-(2)" transform="translate(490.000000, 503.000000)">
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

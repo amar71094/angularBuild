@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Survey-page-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-37.000000, -149.000000)">
+        <g id="Group-2" transform="translate(37.000000, 149.000000)">
+            <circle id="Oval" fill="#5EBC5D" cx="14.5" cy="14.5" r="14.5"></circle>
+            <g id="background-(1)" transform="translate(8.000000, 9.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M13.4375082,0 L5.56249176,0 C5.25143775,0 5,0.26132524 5,0.583326497 L5,6.4166735 C5,6.73867476 5.25143775,7 5.56249176,7 L13.4375082,7 C13.7485623,7 14,6.73867476 14,6.4166735 L14,0.583326497 C14,0.26132524 13.7485623,0 13.4375082,0 Z" id="Shape"></path>
+                <path d="M3.3750033,6.75 L3.3750033,5 L0.56249176,5 C0.251437746,5 0,5.26135156 0,5.58335156 L0,11.4166758 C0,11.7386758 0.251437746,12 0.56249176,12 L8.43750824,12 C8.74856225,12 9,11.7386758 9,11.4166758 L9,8.5 L5.06250494,8.5 C4.13213782,8.5 3.3750033,7.71485156 3.3750033,6.75 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
